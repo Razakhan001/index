@@ -1,0 +1,83 @@
+.wrapper{
+    width: 900px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.services{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 70px;
+
+    
+
+}
+.services h2{
+    
+    margin-top: 70px;
+    color: orangered;
+    
+}
+.services p{
+    line-height: 25px;
+    width: 650px;
+margin: 0 auto;
+text-align: center;
+margin-bottom: 70px;
+
+
+}
+.sections{
+    width: 290px;
+float: left;
+margin-right: 10px;
+
+
+}
+.section1 {
+    width: 290px;
+float: left;
+margin-right: 10px;
+
+}
+.section2 {
+    width: 290px;
+float: left;
+margin-right: 10px;
+
+
+}
+.section3 {
+    width: 290px;
+float: left;
+margin-right: 10px;
+
+
+
+}
+.section1 img{
+    width: 290px;
+
+  
+
+}
+.section2 img{
+    width: 290px;
+   
+
+}
+.section3 img{
+    width: 290px;
+
+}
+
+.section1 img:hover, img:focus{
+    border: 2px solid rgb(14, 2, 108);
+}
+.section2 img:hover, img:focus{
+    border: 2px solid rgb(14, 2, 108);
+}
+.section3 img:hover{
+    border: 2px solid rgb(14, 2, 108);
+}
